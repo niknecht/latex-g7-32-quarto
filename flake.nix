@@ -1,7 +1,5 @@
 {
-  description = "This defines a devalopment enviroment that includes full Pethone and C++ support for each language's Neovim\
-  plugins and required shell utilities for testing.";
-  # Gtest for C++, something similar for python, load sample test cases there
+  description = "This defines a devalopment enviroment that includes full toolchain support for Markdown to PDF and related tools.";
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   };
