@@ -1,9 +1,0 @@
----
-title: "Отчет по лаборатораной работе 1 по практикуму по цифровой электроникею"
-format:
- pdf:
-  pdf-engine: xelatex
-  documentclass: G7-32
----
-# Heeeey
-Heeeeey

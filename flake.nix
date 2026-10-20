@@ -1,3 +1,6 @@
+# Copyright (c) 2026 Nikita Vitkovskiy
+# SPDX-License-Identifier: MIT
+
 {
   description = "This defines a devalopment enviroment that includes full toolchain support for Quarto Markdown to PDF and related tools.";
   inputs = {
